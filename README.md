@@ -1,4 +1,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+## Description
+
+It is a case study where the products coming from API are listed and the products can be added to the basket.
+
+Features:
+- List products
+- Add to basket
+- Increase/decrease product count
+- Multiple filter feature
+- İtems paginations 
+
+
+*Api repository* : [g-market-api](https://github.com/sfatihk/g-market-api)
+
+*Api url* : [https://g-market-api.herokuapp.com/](https://g-market-api.herokuapp.com/)
 
 ## File Structure
 
